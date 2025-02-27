@@ -1,0 +1,15 @@
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.exe
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\Datasets\Pizza-Factory.json
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.deps.json
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.runtimeconfig.json
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.dll
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\bin\Debug\net6.0\JsonParser.pdb
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.AssemblyInfo.cs
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.dll
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\refint\JsonParser.dll
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.pdb
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\JsonParser.genruntimeconfig.cache
+C:\Users\skyli\Desktop\EXAM\01.Pizza-Factory-Json-Parser\obj\Debug\net6.0\ref\JsonParser.dll
