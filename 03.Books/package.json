@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  },
+  "name": "exam-test",
+  "version": "1.0.0",
+  "description": "my Book Service Problem tests",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "type":"module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Book",
+    "Service",
+    "Tests"
+  ],
+  "author": "Martin Kirov",
+  "license": "ISC"
+}
